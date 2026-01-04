@@ -1,3 +1,4 @@
+<img width="1346" height="622" alt="Screenshot 2026-01-04 133518" src="https://github.com/user-attachments/assets/7df96965-75fa-4a1f-8abe-35d433756dda" />
 # Food Delivery Web Application (MERN Stack)
 
 ## Overview
