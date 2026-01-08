@@ -1,32 +1,75 @@
-<img width="1346" height="622" alt="Screenshot 2026-01-04 133518" src="https://github.com/user-attachments/assets/7df96965-75fa-4a1f-8abe-35d433756dda" />
-# Food Delivery Web Application (MERN Stack)
 
-## Overview
 
-A full-stack food delivery platform built with **MongoDB, Express.js, React.js, and Node.js**.
-Users can browse menus, add items to the cart, place orders, and manage authentication.
-State management is handled using **Redux** with persisted storage for a seamless user experience.
+# FoodDash  – Smart Food Delivery Platform
 
-This is a **customized version** with my own UI and feature enhancements on top of the base MERN structure.
+
+
+FoodDash AI is a full-stack food delivery web application enhanced with AI-powered features to improve user engagement, personalization, and order management. The platform leverages modern web technologies and Google Generative AI to generate intelligent food descriptions and recommendations.
 
 ---
 
 ## Features
 
-* User Authentication (JWT-based login/signup)
-* Browse Products (Dynamic menu fetched from backend)
-* Cart System (Add, remove, update items)
-* Order Placement with real-time status updates
-* Persistent State using Redux Persist
-* Responsive UI for mobile and desktop
-* Secure API Endpoints with authentication middleware
+* User authentication and authorization
+* Food ordering and order management system
+* AI-generated food descriptions using Google Generative AI
+* Smart food recommendations based on user interactions
+* RESTful APIs for managing users, orders, and menu data
+* Fully responsive user interface for multiple devices
+
+---
+
+## AI Integration
+
+* Integrated Google Generative AI for automatic food description generation
+* Implemented intelligent recommendation logic to enhance user experience
+* Improved engagement through AI-assisted content delivery
 
 ---
 
 ## Tech Stack
 
-**Frontend:** React.js, Redux, Styled Components
-**Backend:** Node.js, Express.js
-**Database:** MongoDB Atlas
-**Authentication:** JWT, bcrypt
-**Other Tools:** Redux Persist, Axios, React Router
+**Frontend**
+
+* React.js
+* CSS
+
+**Backend**
+
+* Node.js
+* Express.js
+
+**Database**
+
+* MongoDB
+
+**AI**
+
+* Google Generative AI
+
+---
+
+## Project Structure
+
+```
+FoodDash-AI/
+├── frontend/
+├── backend/
+├── models/
+├── routes/
+├── controllers/
+└── README.md
+```
+
+---
+
+## Future Enhancements
+
+* Online payment gateway integration
+* Real-time order status tracking
+* AI-based dietary and nutritional recommendations
+* Admin dashboard for restaurant management
+
+---
+
+
